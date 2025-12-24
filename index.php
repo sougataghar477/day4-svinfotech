@@ -135,6 +135,15 @@
         </button>
       </form>
     </div>
+    <iframe
+  width="100%"
+  height="250"
+  style="border:0"
+  loading="lazy"
+  allowfullscreen
+  referrerpolicy="no-referrer-when-downgrade"
+  src="https://www.google.com/maps/embed/v1/place?key=AIzaSyDY-F60EEvE4gA_xnv4_vyyx-0zOTTEuiM&q=Kolkata,India">
+</iframe>
   </div>
 
   <dialog
