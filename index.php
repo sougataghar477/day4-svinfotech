@@ -75,7 +75,7 @@
           <input
             required
             placeholder=" "
-            class="rounded-lg outline-0 block w-full p-4 bg-gray-100 peer"
+            class="rounded-lg outline-0 block w-full p-4 bg-gray-100 peer focus:bg-gray-200"
             id="name"
             type="text"
             name="name"
@@ -93,7 +93,7 @@
           <input
             required
             placeholder=" "
-            class="rounded-lg outline-0 block w-full p-4 bg-gray-100 peer"
+            class="rounded-lg outline-0 block w-full p-4 bg-gray-100 peer focus:bg-gray-200"
             id="email"
             type="email"
             name="email"
@@ -111,7 +111,7 @@
         <div class="relative transition mb-8">
           <textarea
             placeholder=" "
-            class="rounded-lg outline-0 block w-full p-4 bg-gray-100 peer"
+            class="rounded-lg outline-0 block w-full p-4 bg-gray-100 peer focus:bg-gray-200"
             id="message"
             type="text"
             name="message"
